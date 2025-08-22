@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Andy Gabriel Sarne
-## I use Arch btw
 
 <div align="center">
   
