@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Andy Gabriel Sarne
+## I use Arch btw
 
 <div align="center">
   
@@ -12,7 +13,7 @@
 
 ## 🚀 Introduction
 
-Welcome to my GitHub! It's me **Andy Gabriel Sarne**, a passionate developer on an exciting journey through the world of technology. Medyo mahilig mag build ng mga bagay that matter and I constantly pushing my boundaries to learn new technologies and frameworks.
+Welcome to my GitHub! It's me **Andy Gabriel Sarne**, a passionate developer on an exciting journey through the world of technology. Medyo mahilig mag build ng mga bagay that matter and I constantly pushing my boundaries to learn new technologies and frameworks. I also use Arch Linux BTW
 
 ---
 
@@ -33,7 +34,8 @@ Currently diving deep into:
 const skills = {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Bootstrap', 'Tailwindcss'],
     backend: ['Python', 'C#'],
-    tools: ['Vite'],
+    tools: ['Vite', 'Neovim'],
+    os: ['Arch Linux'],
     learning: ['Advanced Python', 'Flask', 'Modern Frontend Frameworks']
 }
 ```
@@ -49,6 +51,8 @@ const skills = {
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
 
@@ -86,6 +90,8 @@ const skills = {
 - 💡 I am a human not a horse
 - 🎯 Goal: Become a Front-end Developer (okay lang kung full-stack din)
 - ⚡ Fun fact: I don't give fun facts
+- 🐧 Proud Arch Linux user (btw I use Arch)
+- ⌨️ Neovim enthusiast - because efficiency matters
 
 ---
 
